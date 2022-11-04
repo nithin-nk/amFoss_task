@@ -1,0 +1,1 @@
+This task was pretty easy for me because i had ubuntu pre-installed.
